@@ -64,13 +64,8 @@ I'm a cybersecurity and AI developer from India. I like to learn by building —
 
 ---
 
-### 📊 GitHub stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Danish-spidy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-spidy&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://komarev.com/ghpvc/?username=Danish-spidy&style=flat-square&color=1d4ed8&label=Profile+views" alt="profile views" />
 </p>
-
----
 
 <p align="center"><i>Every project is real — written, designed, tested, and shipped solo.</i></p>
