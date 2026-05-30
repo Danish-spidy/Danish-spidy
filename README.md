@@ -71,3 +71,5 @@ I'm a cybersecurity and AI developer from India. I like to learn by building —
 <p align="center"><i>Every project is real — written, designed, tested, and shipped solo.</i></p>
 
 
+
+<!-- profile readme refresh 2026-05-30T16:14:29Z -->
